@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./index.js"],"names":["console","log"],"mappings":"kHAAA,iBACAA,QAAQC,IAAI,oB","file":"main.997a4d4d5897d0d48b13.js","sourcesContent":["import './styles.css';\nconsole.log('HW 11. Promise');\n"],"sourceRoot":""}
